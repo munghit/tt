@@ -278,7 +278,6 @@ with b:
 st.divider()
 
 
-대신 아래 코드를 붙여 넣어.
 
 ```python
 st.divider()
