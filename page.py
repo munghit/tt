@@ -278,8 +278,6 @@ with b:
 st.divider()
 
 
-
-```python
 st.divider()
 
 st.subheader("📌 전체 흐름")
